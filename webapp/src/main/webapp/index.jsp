@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Have a good day! </h1>
+   <h1> Have a good day- Nameera </h1>
 
   
 </form>
